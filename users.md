@@ -228,5 +228,12 @@
   Place: Cape Town, South Africa  
   Bio: Mobile (Android + iOS) Developer  
   GitHub: [Dawid van Graan](https://github.com/dawidvangraan)    
-  Facebook:     
+  Facebook:
+
+- Name: Rajat Bangar
+  Place: Kurukshetra, India
+  Bio: Programer and Developer
+  GitHub: [Rajat Bangar](https://github.com/rajatbangar)
+  Facebook: NA
+
   
